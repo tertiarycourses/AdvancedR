@@ -72,9 +72,16 @@ vaccination %>%
   plot()
 
 # Tibble
+df <- tibble(
+  'male' = c(2.3,3.5,4.6,3.2,2.5),
+  'female' = c(1.3,2.6,1.7,1.9,2.1)
+)
+df
+
 sleep
 as_tibble(sleep)
 
+# Activity: Tibble
 heart<- read.csv("https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data",header=FALSE,sep=",",na.strings = '?')
 
 names(heart) <- c( "age", "sex", "cp", "trestbps", "chol","fbs", "restecg",

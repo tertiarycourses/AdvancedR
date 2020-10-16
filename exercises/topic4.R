@@ -103,7 +103,7 @@ tidy_df
 
 tidy_df_rm <- tidy_df %>%
   anti_join(stop_words)
-tidy_df
+tidy_df_rm
 
 tidy_df_rm %>%
   inner_join(nrc_sentiment) %>%
