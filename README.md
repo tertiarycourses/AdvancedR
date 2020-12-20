@@ -1,6 +1,6 @@
 
 # Advanced R Data Analysis Training
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Advanced R Data Analysis Training](https://www.tertiarycourses.com.sg/advanced-r-data-analysis-training.html) course. 
 
